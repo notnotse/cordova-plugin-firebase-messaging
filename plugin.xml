@@ -54,7 +54,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods>
-                <pod name="Firebase/Messaging" spec="$IOS_FIREBASE_MESSAGING_VERSION" />
+                <pod name="Firebase/Messaging" spec="~> 6.31.0" />
             </pods>
         </podspec>
     </platform>
